@@ -13,8 +13,6 @@ Uses John Gruber's excellent [URL regexp](http://daringfireball.net/2010/07/impr
 
 OS X only (uses `open`).
 
-Requires Vim to be compiled with Ruby support. I started porting the regexp to Vim syntax, then gave up before I could hurt myself.
-
 
 ## Playground
 
